@@ -1,4 +1,5 @@
 # conversao-peso
+## Executar o docker build na raiz do projeto
 
 FROM mcr.microsoft.com/dotnet/aspnet:5.0 AS base </br>
 WORKDIR /app </br>
